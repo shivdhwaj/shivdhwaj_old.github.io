@@ -568,5 +568,5 @@ dd p:first-child {
   font-style: italic;
 }
 .c2c{
-  background: transparent url(../images/c2c.jpg) 0 0 no-repeat;
+  background: transparent url(../images/c2c.jpg);
 }
